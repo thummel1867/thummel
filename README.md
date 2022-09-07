@@ -3,7 +3,7 @@
 Find me on [LinkedIn!](https://www.linkedin.com/in/thomas-hummel1867/)
 
 ***
-My name is Thomas. I'm a Full-Stack developer with an interest in environmentalism. 
+My name is Thomas! I'm a Full-Stack developer with an interest in environmentalism. 
 
 Here's a short list of what can be found in my coding toolbox: 
 
