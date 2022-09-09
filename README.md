@@ -19,5 +19,5 @@ Here's a short list of what can be found in my coding toolbox:
 - Mongoose 
 - SQL 
 
-My coding philosophy is modivated by the desire to break down complex problems and to slowly synthesize them into something that a user easily understand and enjoy. 
+My coding philosophy is modivated by the desire to break down complex problems and to slowly synthesize them into something that a user can easily understand and enjoy. 
 
