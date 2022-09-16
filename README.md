@@ -1,6 +1,6 @@
 # Welcome to my Github! 
 
-Check out my [Portfolio!](thomashummel1867.com/)
+Check out my [Portfolio!](https://thomashummel1867.com/)
 
 Find me on [LinkedIn!](https://www.linkedin.com/in/thomas-hummel1867/)
 
