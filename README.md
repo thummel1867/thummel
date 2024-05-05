@@ -1,4 +1,4 @@
-# Welcome to my Github! 
+# Welcome to my Github! 👋👋👋
 
 Check out my [Portfolio!](https://bigbunny-2eca28657c65.herokuapp.com/)
 
