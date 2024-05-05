@@ -1,11 +1,11 @@
 # Welcome to my Github! 
 
-Check out my [Portfolio!](https://thomashummel1867.com/)
+Check out my [Portfolio!]([https://thomashummel1867.com/](https://bigbunny-2eca28657c65.herokuapp.com/))
 
 Find me on [LinkedIn!](https://www.linkedin.com/in/thomas-hummel1867/)
 
 ***
-My name is Thomas! I'm a Full-Stack developer with an interest in environmentalism. 
+My name is Thomas! I'm an IT Support Technician and Full-Stack developer with an interest in environmentalism. 
 
 Here's a short list of what can be found in my coding toolbox: 
 
