@@ -19,7 +19,8 @@ Here's a short list of what can be found in my coding toolbox:
 - Express.js 
 - Django 
 - Mongoose 
-- SQL 
+- SQL
+- Typescript
 
 My coding philosophy is modivated by the desire to break down complex problems and to slowly synthesize them into something that a user can easily understand and enjoy. 
 
